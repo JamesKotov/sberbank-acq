@@ -25,7 +25,6 @@
     "sberbank",
     "acquiring"
   ],
-  "type": "module",
   "author": "Dmitry Bardyshev",
   "license": "MIT",
   "bugs": {
